@@ -1,2 +1,2 @@
 # summerschool
-Lena's summerschool 2019
+CHDSS summerschool 2019 at UoM
